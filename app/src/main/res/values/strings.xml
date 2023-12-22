@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">i Music</string>
+    <string name="textview">TextView</string>
+    <string name="mainimage">MainImage</string>
+    <string name="previous">previous</string>
+    <string name="pause">pause</string>
+    <string name="next">next</string>
+    <string name="i_music">i Music</string>
+    <string name="back">back</string>
+    <string name="replay">replay</string>
+    <string name="music">music</string>
+    <string name="_0_00">0:00</string>
+    <string name="welcome_to_imusic">Welcome To iMusic</string>
+    <string name="your_music">Your Music</string>
+</resources>
